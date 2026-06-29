@@ -1,12 +1,11 @@
 ## Charbel Wakim
 
-Staff Engineer working on developer experience and platform at Emma. I build the
-tooling, pipelines, and AWS foundations that decide whether shipping software
-feels like a craft or a chore.
+Staff DevEx Engineer at Emma, supporting ~100 engineers across 15 product teams. I build the tooling, pipelines, and AWS
+foundations that decide whether shipping software feels like a craft or a chore.
 
-I work across three regions at once, the Levant, Western Europe, and the Gulf.
-Different economies, different definitions of "good engineering," same job. Most
-of what I think about lives on that seam.
+I work across Germany, Saudi Arabia, and Lebanon at once. Different economies,
+different definitions of "good engineering," same job. Most of what I think about
+lives on that seam.
 
 I write about it at **[Life in Production](https://lifeinproduction.com)**:
 engineering culture, the systems behind the systems, and the occasional personal
