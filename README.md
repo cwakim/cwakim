@@ -18,12 +18,12 @@ post about building a life across borders.
 - Observability people actually use: OpenTelemetry, Prometheus, Grafana, DORA
   metrics — zero downtime through 20× Black Friday traffic, and
   [a talk at Grafana ObservabilityCon 2023](https://grafana.com/go/webinar/how-grafana-cloud-turned-black-friday-into-a-dream-sales-day-for-emma-the-sleep-company/) on how we did it
-- Agentic delivery: the refinery, the forge, and a maintenance bot that fixes 1,605 vulnerabilities a month across ~700 repositories, plus [open-source Claude Code plugins](https://github.com/cwakim/claude-plugins) for session handoffs, safe branch cleanup, and agent memory auditing
+- Agentic delivery: the refinery, the forge, and a maintenance bot that ships 1,605 vulnerability fixes a month across ~700 repositories, plus [open-source Claude Code plugins](https://github.com/cwakim/claude-plugins) for session handoffs, safe branch cleanup, and agent memory auditing
 
 ### Currently
 - Agentic delivery at Emma, with the goal of reaching all ~1,000 Emmies, not only the engineers
 - Writing Life in Production
-- Building [Nadim](https://nadimhq.com), a chief of staff made of Claude Code agents that plans, builds, and reviews a side project at night
+- Building [Nadim](https://nadimhq.com), a chief of staff made of Claude Code agents that plan, build, and review a side project at night
 - Building an agent-driven writing pipeline with Claude Code (slow-burn flagship)
 
 ### Find me
