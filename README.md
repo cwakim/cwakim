@@ -22,7 +22,7 @@ post about building a life across borders.
 
 ### Currently
 - Agentic delivery at Emma, with the goal of reaching all ~1,000 Emmies, not only the engineers
-- Writing Life in Production
+- Writing [Life in Production](https://lifeinproduction.com)
 - Building [Nadim](https://nadimhq.com), a chief of staff made of Claude Code agents that plan, build, and review a side project at night
 - Building an agent-driven writing pipeline with Claude Code (slow-burn flagship)
 
